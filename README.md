@@ -1,23 +1,21 @@
 
-# 🌿 Graph-Greener
-
-![GitHub stars](https://img.shields.io/github/stars/sakshamrma/graph-greener?style=social)
+# 🌿 dn-git-auto-commit
 
 ---
 
 ## 🌟 Make Your GitHub Contribution Graph Vibrant and Active! 🌟
 
-Welcome to **Graph-Greener**, the ultimate Python tool to help you paint your GitHub contribution graph green with backdated commits! Whether you want to showcase your activity or create beautiful patterns, this tool makes it easy and fun.
+Welcome to **dn-git-auto-commit**, the ultimate Python tool to help you paint your GitHub contribution graph green with backdated commits! Whether you want to showcase your activity or create beautiful patterns, this tool makes it easy and fun.
 
 ---
 
-## 🚀 What is Graph-Greener?
+## 🚀 What is dn-git-auto-commit?
 
-Graph-Greener is a lightweight, user-friendly Python script that generates backdated commits in your GitHub repository, filling your contribution graph with green squares.  
+dn-git-auto-commit is a lightweight, user-friendly Python script that generates backdated commits in your GitHub repository, filling your contribution graph with green squares.  
 Perfect for developers who want a visually appealing and active profile.
 
 ---
-##[VIDEO LINK ](https://youtu.be/)
+
 ## 📋 Prerequisites
 
 - 🐍 Python 3.x installed on your machine  
@@ -26,22 +24,22 @@ Perfect for developers who want a visually appealing and active profile.
 
 ---
 
-## 🛠️ How to Use Graph-Greener
+## 🛠️ How to Use dn-git-auto-commit
 
-1. **Create a private repository on GitHub named `priv`.**  
+1. **Create a private repository on GitHub named `dn-git-auto-commit`.**  
    _This keeps your main projects clean and dedicated for this purpose._
 
-2. **Clone your `priv` repository to your local machine:**
+2. **Clone your `dn-git-auto-commit` repository to your local machine:**
    ---
-   git clone https://github.com/YOUR_USERNAME/priv.git
+   git clone https://github.com/DeepDN/dn-git-auto-commit.git
 
-   cd priv
+   cd dn-git-auto-commit
    ---
 
-3. **Create a file named `data.txt` inside the cloned `priv` folder.**  
+3. **Create a file named `data.txt` inside the cloned `dn-git-auto-commit` folder.**  
    _This file will be modified by the script to generate commits._
 
-4. **Copy the `main.py` script into the `priv` folder.**  
+4. **Copy the `main.py` script into the `dn-git-auto-commit` folder.**  
    _You can download `main.py` from this repository or copy it manually._
 
 5. **Run the script:**
@@ -54,7 +52,7 @@ Perfect for developers who want a visually appealing and active profile.
    - Confirm or change the repository path (default is current directory)  
    - Confirm or change the filename to modify (default is `data.txt`)
 
-7. **The script will create backdated commits and push them to your `priv` repository.**
+7. **The script will create backdated commits and push them to your `dn-git-auto-commit` repository.**
 
 8. **Check your GitHub profile after a few minutes to see your contribution graph fill up with green squares!**
 
